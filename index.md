@@ -13,3 +13,10 @@ Acabo de agregar unos bonitos titulos
 num = int(3)
 adder = int(4)
 sum = num + adder
+```
+
+# Lista de tareas
+
+  - [ ] Turn on GitHub Pages
+  - [ ] Outline my portfolio
+  - [ ] Introduce myself to the world
